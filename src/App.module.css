@@ -1,0 +1,31 @@
+.calculator {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 480px) {
+    .calculator {
+        margin: 1rem;
+        padding: 0.5rem;
+    }
+}
+
+/*.display {
+    margin: 10px;
+    width: 175px;
+    font-size : 25px;
+}
+.buttonsContainer {
+   display:flex;
+   justify-content: center;
+   flex-wrap:wrap;
+}
+.button{
+    width: 45px;
+    height: 45px;
+    margin:3px;
+}*/
