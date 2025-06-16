@@ -1,8 +1,54 @@
-# React + Vite
+🧠 Voice-Enabled Calculator:
+A smart calculator that lets users perform arithmetic calculations using speech input. Built with React and powered by the Web Speech API, it provides both text-based and voice-based interaction for hands-free and accessible computation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Key Features
+🎤 Voice Input: Users can speak expressions like “five plus six divided by two,” and the calculator parses and evaluates them.
 
-Currently, two official plugins are available:
+🧮 Real-Time Calculation: Supports addition, subtraction, multiplication, and division.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧹 Natural Language Parsing: Converts phrases like "multiplied by", "divided by", "into", and "equals" into mathematical symbols.
+
+🧠 Error Handling: Gracefully handles misrecognized input and invalid expressions.
+
+🎨 Responsive UI: Simple, modern interface built using CSS Modules in React.
+
+📂 Keyboard + Voice Support: Users can type or speak inputs for flexibility.
+
+🔧 Tech Stack
+Frontend: React, JavaScript
+
+APIs: Web Speech API (for speech recognition)
+
+Styling: CSS Modules
+
+Tooling: npm, Git, GitHub
+
+
+🌐 Example Voice Commands
+      "seven plus three"
+
+     "twelve divided by four"
+
+     "five multiplied by six"
+
+     "eighteen minus nine"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
